@@ -4,8 +4,12 @@ This is an in-class challenge to apply the skills learnt during the class.
 
 ##  My assigned play - King Lear Play
 
-- Speaker 1 - KENT
-- Speaker 2 - ALBANY
+The speakers I've chosen from the play are:
+
+##  Speaker 1 
+KENT
+## Speaker 2 
+ALBANY
 
 ### Question asked?
 

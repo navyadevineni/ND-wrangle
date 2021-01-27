@@ -89,8 +89,8 @@ paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1' > KASumCount.txt
 
 ### Tell us the answer
 
-Speaker 1, KENT spoke  [154](https://github.com/navyadevineni/nd-wrangle/blob/main/KENTcount.txt) times. Speaker 2, ALBANY spoke [66](https://github.com/navyadevineni/nd-wrangle/blob/main/ALBANYcount.txt) times.
-
+- Speaker 1, KENT spoke  [154](https://github.com/navyadevineni/nd-wrangle/blob/main/KENTcount.txt) times. Speaker 2, ALBANY spoke [66](https://github.com/navyadevineni/nd-wrangle/blob/main/ALBANYcount.txt) times.
+- The combined result of the both of them is [220](https://github.com/navyadevineni/nd-wrangle/blob/main/KASumCount.txt).
 
 #### Input file:
 

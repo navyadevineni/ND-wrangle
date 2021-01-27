@@ -6,9 +6,9 @@ This is an in-class challenge to apply the skills learnt during the class.
 
 The speakers I've chosen from the play are:
 
-##  Speaker 1 
+###  Speaker 1 
 KENT
-## Speaker 2 
+### Speaker 2 
 ALBANY
 
 ### Question asked?

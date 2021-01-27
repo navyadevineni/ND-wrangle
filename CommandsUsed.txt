@@ -19,7 +19,7 @@ grep "ALBANY" lear.txt
 grep "ALBANY" lear.txt -c
 
 grep "ALBANY" lear.txt -c > ALBANYcount.txt
- 
+  
 
 
 

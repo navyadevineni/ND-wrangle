@@ -96,7 +96,7 @@ paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1' > KASumCount.txt
 
 [input.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/input.txt)
 
-By using stream editor using curl command, redirected a [lear.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/lear.txt) file without any HTML opening and closing tags.
+By using stream editor in curl command, redirected a [lear.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/lear.txt) file without any HTML opening and closing tags.
 
 #### Output files:
 

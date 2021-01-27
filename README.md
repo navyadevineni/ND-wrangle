@@ -3,6 +3,8 @@
 This is an in-class challenge to apply the skills learnt during the class.
 
 ##  My assigned play - King Lear Play
+Chosen this play from the Tragedy section.
+Link to my play : [King Lear](http://shakespeare.mit.edu/lear/full.html)
 
 The speakers I've chosen from the play are:
 

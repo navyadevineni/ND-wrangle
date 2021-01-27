@@ -8,6 +8,8 @@ curl "http://shakespeare.mit.edu/lear/full.html" | sed 's/<\/*[^>]*>//g' > lear.
 
 ls
 
+tail -20 lear.txt 
+
 grep "KENT" lear.txt
 
 grep "KENT" lear.txt -c
@@ -21,6 +23,8 @@ grep "ALBANY" lear.txt -c
 grep "ALBANY" lear.txt -c > ALBANYcount.txt
   
 paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1'
+
+paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1' > KASumCount.txt
 
 
 

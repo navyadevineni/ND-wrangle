@@ -73,6 +73,8 @@ grep "ALBANY" lear.txt -c > ALBANYcount.txt
 
 [input.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/input.txt)
 
+By using stream editor command, redirected a [lear.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/lear.txt) file without any HTML opening and closing tags.
+
 #### Output files:
 
 []()

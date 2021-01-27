@@ -20,6 +20,7 @@ grep "ALBANY" lear.txt -c
 
 grep "ALBANY" lear.txt -c > ALBANYcount.txt
   
+paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1'
 
 
 

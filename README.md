@@ -39,4 +39,11 @@ grep "ALBANY" lear.txt -c > ALBANYcount.txt
 ### Tell us the answer
 
 
+## Input file:
+
+[input.txt](https://github.com/navyadevineni/nd-wrangle/blob/main/input.txt)
+
+## Output files:
+
+[]()
 

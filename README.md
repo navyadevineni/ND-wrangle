@@ -6,6 +6,8 @@ This is an in-class challenge to apply the skills learnt during the class.
 Chosen this play from the Tragedy section.
 Link to my play : [King Lear](http://shakespeare.mit.edu/lear/full.html)
 
+Told to choose dany 2 speakers of individual choice.
+
 The speakers I've chosen from the play are:
 
 ###  Speaker 1 

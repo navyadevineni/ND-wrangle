@@ -1,0 +1,25 @@
+Commands used:
+
+curl "http://shakespeare.mit.edu/lear/full.html" > input.txt
+
+ls
+
+curl "http://shakespeare.mit.edu/lear/full.html" | sed 's/<\/*[^>]*>//g' > lear.txt
+
+ls
+
+grep "KENT" lear.txt
+
+grep "KENT" lear.txt -c
+
+grep "KENT" lear.txt -c > KENTcount.txt
+
+grep "ALBANY" lear.txt
+
+grep "ALBANY" lear.txt -c
+
+grep "ALBANY" lear.txt -c > ALBANYcount.txt
+ 
+
+
+

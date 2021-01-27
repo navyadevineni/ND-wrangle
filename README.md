@@ -42,6 +42,11 @@ To view the list of files in the folder
 ls
 ```
 
+To preview the last 20 lines in lear.txt file 
+```
+tail -20 lear.txt
+```
+
 To find the match with speaker name 'KENT' in lear.txt file
 ```
 grep "KENT" lear.txt

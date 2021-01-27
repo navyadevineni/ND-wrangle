@@ -72,9 +72,19 @@ To redirect the output of the times ALBANY spoke to a ALBANYcount.txt
 grep "ALBANY" lear.txt -c > ALBANYcount.txt
 ```
 
+This command helped me to calculate the combined result of the two speakers
+```
+paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1'
+```
+
+The combined result of the two speakers is saved into KASumCount.txt file
+```
+paste KENTcount.txt ALBANYcount.txt | awk '{$0=$1+$2}1' > KASumCount.txt 
+```
+
 ### Tell us the answer
 
-Speaker 1, KENT spoke 154 times. Speaker 2, ALBANY spoke 66 times.
+Speaker 1, KENT spoke  [154](https://github.com/navyadevineni/nd-wrangle/blob/main/KENTcount.txt) times. Speaker 2, ALBANY spoke [66](https://github.com/navyadevineni/nd-wrangle/blob/main/ALBANYcount.txt) times.
 
 
 #### Input file:
@@ -87,5 +97,5 @@ By using stream editor using curl command, redirected a [lear.txt](https://githu
 
 1. [KENT Count](https://github.com/navyadevineni/nd-wrangle/blob/main/KENTcount.txt)
 2. [ALBANY Count](https://github.com/navyadevineni/nd-wrangle/blob/main/ALBANYcount.txt)
-3. []()
+3. [KA Count](https://github.com/navyadevineni/nd-wrangle/blob/main/KASumCount.txt)
 

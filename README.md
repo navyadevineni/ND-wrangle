@@ -87,5 +87,5 @@ By using stream editor using curl command, redirected a [lear.txt](https://githu
 
 1. [KENT Count](https://github.com/navyadevineni/nd-wrangle/blob/main/KENTcount.txt)
 2. [ALBANY Count](https://github.com/navyadevineni/nd-wrangle/blob/main/ALBANYcount.txt)
-3. []()
+3. [KA Count](https://github.com/navyadevineni/nd-wrangle/blob/main/KASumCount.txt)
 
